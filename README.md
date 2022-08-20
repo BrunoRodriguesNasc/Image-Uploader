@@ -1,1 +1,1 @@
-# Image-Uploader
+# Image uploader
