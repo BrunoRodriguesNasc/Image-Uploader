@@ -7,6 +7,7 @@ module.exports = {
     fontFamily: {
       'Poppins': ['Poppins', 'sans-serif'],
       'Noto': ['Noto Sans', 'sans-serif'],
+      'Montserrat': ['Montserrat', 'sans-serif'],
     },
     extend: {
       backgroundImage: {
